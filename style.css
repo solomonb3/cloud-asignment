@@ -1,0 +1,74 @@
+body
+{
+background-color: #d1d2e0;
+color: #5c8f0b;
+font-family: timesnew roman;
+}
+
+h1
+{
+color: #2236e6;
+font-family: Verdana;
+}
+
+.maindiv
+{
+background-color: #ffffff;
+color: #440b8f;
+width: 500px;
+padding: 20px;
+border-radius: 25px;
+margin-left: auto;
+margin-right: auto;
+}
+
+/* #result
+{
+display: none;
+} */
+
+.contents
+{
+margin-left: 80px;
+}
+
+table td
+{
+padding-bottom: 10px;
+}
+
+#compute
+{
+margin-bottom: 15px;
+background-color: #b0bd9d;
+font-size: 17px;
+color: black;
+height: 25px;
+width: 180px;
+}
+#principal{
+height: 25px;
+width: 150px;
+color: blue;
+}
+
+#years{
+height: 35px;
+width: 30px;
+}
+
+#footer
+{
+margin-top: 35px;
+font: bolder;
+}
+
+.labels
+{
+width: 120px;
+}
+
+.highlight
+{
+background-color: #dcf7f1;
+}
